@@ -78,4 +78,4 @@ If you have questions or concerns regarding this Privacy Policy or Quietick's pr
 ---
 
 **App:** Quietick: Clock & Focus
-**Developer:** Map Labs
+**Developer:** Nihas Nizar
